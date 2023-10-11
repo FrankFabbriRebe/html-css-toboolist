@@ -5,9 +5,14 @@
     box-sizing: border-box;
 }
 
+body    {
+    background-color: lightgray;
+}
+
 /* stle dell'header */
 header  {
     height: 100px;
+    background-color: white;
 }
 
 #logo   {
@@ -21,7 +26,3 @@ h1  {
     vertical-align: middle;
 }
 
-/* background */
-#background {
-    background-color: lightgray;
-}
