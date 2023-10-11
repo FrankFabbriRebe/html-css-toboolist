@@ -11,7 +11,7 @@ body    {
 
 /* stle dell'header */
 header  {
-    height: 100px;
+    height: 80px;
     background-color: white;
 }
 
@@ -26,3 +26,31 @@ h1  {
     vertical-align: middle;
 }
 
+/* stile sezione bottoni */
+.buttons    {
+    background-color: white;
+    margin: 30px auto;
+    width: 70%;
+    height: 50px; 
+    border-radius: 10px;
+}
+
+#task   {
+    margin-left: 50px;
+}
+
+#task  {
+    background-color: rgb(151, 192, 238);
+    color: white;
+    border: none;
+    padding: 8px;
+    border-radius: 10px;
+}
+
+#section  {
+    background-color: white;
+    color: grey;
+    border: solid 1px gray;
+    padding: 8px;
+    border-radius: 10px;
+}
