@@ -4,3 +4,19 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/* stle dell'header */
+header  {
+    height: 100px;
+}
+
+#logo   {
+    padding-left: 30px;
+    padding-top: 10px;
+    vertical-align: middle;
+}
+
+h1  {
+    display: inline-block;
+    vertical-align: middle;
+}
