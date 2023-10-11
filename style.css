@@ -62,8 +62,10 @@ main    {
     border-radius: 10px;
 }
 
+/* sezione new task */
 .new_task   {
     margin-left: 50px;
+    padding-top: 50px;
 }
 
 h2  {
@@ -82,3 +84,5 @@ span    {
     padding: 1px 5px;
     margin-left: 10px;
 }
+
+/* sezione today */
