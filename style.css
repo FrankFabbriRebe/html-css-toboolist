@@ -86,3 +86,25 @@ span    {
 }
 
 /* sezione today */
+.today   {
+    margin-left: 50px;
+    padding-top: 50px;
+}
+
+.Q1  {
+    display: inline-block;
+    background-color: rgb(241, 72, 204);
+    color: white;
+    border-radius: 10px;
+    padding: 1px 5px;
+    margin-left: 10px;
+}
+
+.recruiting  {
+    display: inline-block;
+    background-color: rgb(5, 244, 17);
+    color: white;
+    border-radius: 10px;
+    padding: 1px 5px;
+    margin-left: 10px;
+}
