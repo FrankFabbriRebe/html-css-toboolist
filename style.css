@@ -11,8 +11,13 @@ body    {
 
 /* stle dell'header */
 header  {
-    height: 80px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     background-color: white;
+}
+
+.logo_title {
+
 }
 
 #logo   {
@@ -29,9 +34,10 @@ h1  {
 /* stile sezione bottoni */
 .buttons    {
     background-color: white;
-    margin: 30px auto;
+    margin: 30px auto 0;
     width: 70%;
-    height: 50px; 
+    padding-top: 10px; 
+    padding-bottom: 10px;
     border-radius: 10px;
 }
 
