@@ -70,6 +70,7 @@ main    {
 
 h2  {
     display: inline-block;
+    margin-bottom: 10px;
 }
 
 span    {
@@ -103,6 +104,41 @@ span    {
 .recruiting  {
     display: inline-block;
     background-color: rgb(5, 244, 17);
+    color: white;
+    border-radius: 10px;
+    padding: 1px 5px;
+    margin-left: 10px;
+}
+
+.mobile  {
+    display: inline-block;
+    background-color: rgb(223, 165, 31);
+    color: white;
+    border-radius: 10px;
+    padding: 1px 5px;
+    margin-left: 10px;
+}
+
+/* sezione upcoming */
+
+.upcoming   {
+    margin-left: 50px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+.website    {
+    display: inline-block;
+    background-color: rgb(227, 68, 129);
+    color: white;
+    border-radius: 10px;
+    padding: 1px 5px;
+    margin-left: 10px;
+}
+
+.sales  {
+    display: inline-block;
+    background-color: rgb(50, 100, 43);
     color: white;
     border-radius: 10px;
     padding: 1px 5px;
